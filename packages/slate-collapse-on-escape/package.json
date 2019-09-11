@@ -1,5 +1,5 @@
 {
-  "name": "slate-collapse-on-escape",
+  "name": "@axioscode/slate-collapse-on-escape",
   "description": "A Slate plugin that simply collapses the selection on escape.",
   "version": "0.8.1",
   "license": "MIT",

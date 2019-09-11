@@ -1,5 +1,5 @@
 {
-  "name": "slate-when",
+  "name": "@axioscode/slate-when",
   "description": "A Slate plugin to restrict another plugin to a condition.",
   "version": "0.2.0",
   "license": "MIT",

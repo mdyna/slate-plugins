@@ -1,5 +1,5 @@
 {
-  "name": "slate-soft-break",
+  "name": "@axioscode/slate-soft-break",
   "description": "A Slate plugin to add soft breaks on return.",
   "version": "0.9.0",
   "license": "MIT",
