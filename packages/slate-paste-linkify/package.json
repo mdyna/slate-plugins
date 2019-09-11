@@ -1,7 +1,7 @@
 {
   "name": "@axioscode/slate-paste-linkify",
   "description": "A Slate plugin that wraps a selection in an inline link element when a URL is pasted from the clipboard.",
-  "version": "0.7.0-alpha",
+  "version": "0.7.0",
   "license": "MIT",
   "repository": "git://github.com/ianstormtaylor/slate-plugins.git",
   "main": "lib/slate-paste-linkify.js",
