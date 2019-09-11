@@ -1,4 +1,4 @@
-import DropOrPasteImages from 'slate-drop-or-paste-images'
+import DropOrPasteImages from '@axioscode/slate-drop-or-paste-images'
 import React from 'react'
 import initialValue from './value.json'
 import { Editor } from 'slate-react'

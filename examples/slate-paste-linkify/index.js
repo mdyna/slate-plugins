@@ -1,4 +1,4 @@
-import PasteLinkify from 'slate-paste-linkify'
+import PasteLinkify from '@axioscode/slate-paste-linkify'
 import React from 'react'
 import initialValue from './value.json'
 import { Editor } from 'slate-react'

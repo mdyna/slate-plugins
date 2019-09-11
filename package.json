@@ -55,17 +55,17 @@
     "uglifyify": "^3.0.2"
   },
   "peerDependencies": {
-    "slate-auto-replace": "*",
-    "slate-collapse-on-escape": "*",
-    "slate-drop-or-paste-images": "*",
-    "slate-paste-linkify": "*",
-    "slate-soft-break": "*",
-    "slate-when": "*"
+    "@axioscode/slate-auto-replace": "*",
+    "@axioscode/slate-collapse-on-escape": "*",
+    "@axioscode/slate-drop-or-paste-images": "*",
+    "@axioscode/slate-paste-linkify": "*",
+    "@axioscode/slate-soft-break": "*",
+    "@axioscode/slate-when": "*"
   },
   "scripts": {
     "build": "yarn build:rollup && yarn build:parcel",
     "build:parcel": "parcel build ./examples/index.html --no-source-maps",
-    "build:production": "cross-env NODE_ENV=production yarn build:rollup && cross-env NODE_ENV=production yarn build:parcel",
+    "build:production": "cross-env NODE_ENV=production yarn build:rollup && cross-env NODE_ENV=production",
     "build:rollup": "rollup --config ./support/rollup/config.js",
     "clean": "rm -rf ./{build,dist,node_modules} && rm -rf ./packages/*/{dist,lib,node_modules}",
     "gh-pages": "gh-pages --dist ./dist",

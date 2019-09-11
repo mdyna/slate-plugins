@@ -1,4 +1,4 @@
-import AutoReplace from 'slate-auto-replace'
+import AutoReplace from '@axioscode/slate-auto-replace'
 import React from 'react'
 import initialValue from './value.json'
 import { Editor } from 'slate-react'

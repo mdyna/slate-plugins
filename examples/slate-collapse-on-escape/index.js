@@ -1,4 +1,4 @@
-import CollapseOnEscape from 'slate-collapse-on-escape'
+import CollapseOnEscape from '@axioscode/slate-collapse-on-escape'
 import React from 'react'
 import initialValue from './value.json'
 import { Editor } from 'slate-react'

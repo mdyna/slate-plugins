@@ -1,4 +1,4 @@
-import SoftBreak from 'slate-soft-break'
+import SoftBreak from '@axioscode/slate-soft-break'
 import When from 'slate-when'
 import React from 'react'
 import initialValue from './value.json'
