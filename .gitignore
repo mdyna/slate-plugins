@@ -3,7 +3,6 @@
 .cache/
 build/
 dist/
-lib/
 
 # Temporary files.
 tmp/
