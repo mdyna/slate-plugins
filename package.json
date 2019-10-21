@@ -1,5 +1,6 @@
 {
   "private": true,
+  "version": "final",
   "name": "slate-plugins",
   "workspaces": [
     "packages/*"
